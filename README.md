@@ -25,7 +25,7 @@ The assignment includes three core areas:
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 Data_Analyst_Assignment/
@@ -62,7 +62,7 @@ Data_Analyst_Assignment/
 
 ---
 
-### 2️⃣ Remove Duplicates from String
+### 2️ Remove Duplicates from String
 
 * Removes duplicate characters using loop-based logic
 * Preserves order of first occurrence
@@ -184,7 +184,7 @@ Successfully delivered:
 
 ---
 
-## ⭐ Final Note
+##  Final Note
 
 This project reflects my ability to approach problems analytically, implement solutions efficiently, and present results in a structured manner suitable for business decision-making.
 
